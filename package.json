@@ -1,0 +1,24 @@
+{
+  "name": "monoame-preloader",
+  "version": "1.0.1",
+  "description": "preloader for image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank890417/monoame-preloader.git"
+  },
+  "keywords": [
+    "preloader",
+    "image",
+    "js"
+  ],
+  "author": "frank890417",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frank890417/monoame-preloader/issues"
+  },
+  "homepage": "https://github.com/frank890417/monoame-preloader#readme"
+}
